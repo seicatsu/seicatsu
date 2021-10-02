@@ -13,7 +13,7 @@
 Other platforms to follow me on: 
 <a href="https://kaggle.com/seicatsu" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/817234935106904064/-un1NXl3_400x400.jpg" alt="seicatsu" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/emre-can-m-73340916b/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="seicatsu" height="30" width="30" /></a>
-<a href="sptfy.com/seicatsu" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-brands-logo-34.png" alt="seicatsu" height="30" width="30" /></a>
+<a href="https://sptfy.com/seicatsu" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-brands-logo-34.png" alt="seicatsu" height="30" width="30" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seicatsu&show_icons=true" alt="seicatsu" /></p>
 
