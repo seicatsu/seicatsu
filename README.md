@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Emre Can but people also call me Sei<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> </h1> 
 
-<h3 align="center"> Statistics Student - Jr Data Analyst/Scientist </h3>
+<h3 align="center"> Statistics Student - Future Data Analyst/Scientist </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=seicatsu" alt="seicatsu" /> </p>
 
