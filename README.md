@@ -4,7 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=seicatsu" alt="seicatsu" /> </p>
 
-- ⚛️ I’m currently learning Python, C and R.
+- ⚛️ I’m currently learning R, SQL, Basics of ML.
+
+- 💬 Ask me about Python , C, Linear Algebra stuff.
 
 - 💻 I'm working freelance and contracted as junior for experience.
 
