@@ -8,7 +8,7 @@
 
 - 💬 Ask me about Python , C, Linear Algebra stuff.
 
-- 💻 I'm working on Hacettepe University as Assistant Intern.
+- 💻 I'm working at Hacettepe University as Assistant Intern.
 
 - 📫 How to reach me: **emrecanmert06@gmail.com** or <img src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png" height="15" width="15" alt="seicatsu" > Sei#1001
 
