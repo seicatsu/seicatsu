@@ -6,7 +6,7 @@
 
 - ⚛️ I’m currently learning R, SQL, Basics of ML.
 
-- 💬 Ask me about Python , C, Linear Algebra stuff.
+- 💬 Ask me about Statistical infernce, probability,  Python , C, Linear Algebra stuff.
 
 - 📫 How to reach me: **emrecanmert06@gmail.com** or <img src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png" height="15" width="15" alt="seicatsu" > Seicatsu
 
