@@ -4,10 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=seicatsu" alt="seicatsu" /> </p>
 
-- ⚛️ I’m currently learning R, SQL, Basics of ML.
-
-- 💬 Ask me about Statistical infernce, probability,  Python , C, Linear Algebra stuff.
-
 - 📫 How to reach me: **emrecanmert06@gmail.com** or <img src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png" height="15" width="15" alt="seicatsu" > Seicatsu
 
 - 💬 Ask me about : Anything, I'm open for a technical or non-technical conversation.
